@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Renato Penna, and I'm a Electronic Engineer at LocatorOne and I've been working in tech since 2001. I'm from Brazil, and I'm currently living in São Paulo.
+I'm Renato Penna, and I'm a Software Engineer and I've been working in tech since 2001. I'm from Brazil, and I'm currently living in São Paulo.
 
 
 ## ⚡ Technologies
